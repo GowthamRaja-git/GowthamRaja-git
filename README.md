@@ -27,9 +27,9 @@ Aspiring Software Developer
 
 
 ### 💲 Cryptocurrency
-<img height="30" scr="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-<img height="30" scr="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white"/>
-<img height="30" scr="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white"/>
+<img scr="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+<img scr="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white"/>
+<img scr="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white"/>
 
 ![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamRaja-git&theme=dark&show_icons=true&&hide=issues,contribs)
 

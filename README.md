@@ -1,5 +1,12 @@
 ## Hi there 👋 It's me Gowtham
 
+
+I'm a digital explorer, journeying through the vast landscapes of technology with boundless curiosity. Proficient in the dialects of code and frameworks. With a relentless drive for growth, I eagerly embrace each challenge as an opportunity to thrive in the dynamic world of tech.
+
+Mail at - mail.gowtham.raja2002@gmail.com
+
+"The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life." - Bill Gates
+
 Aspiring Software Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://gowthamraja-git.github.io/portwebsite/)                                                 
